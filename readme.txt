@@ -1,0 +1,1 @@
+Hello! THis is a bit of text for Git. Welcome!
